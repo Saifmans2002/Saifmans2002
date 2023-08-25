@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saifmans2002
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning css
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on product base company
 - 📫 How to reach me saifmans2002@gmail.com
 
